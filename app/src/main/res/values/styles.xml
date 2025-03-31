@@ -1,0 +1,21 @@
+<resources>
+    <!-- Основная тема приложения -->
+    <style name="Theme.LabSeven" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+    <!-- Стиль кнопок -->
+    <style name="ButtonStyle">
+        <item name="android:backgroundTint">@color/purple_500</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:padding">8dp</item>
+    </style>
+
+    <!-- Стиль текстовых полей -->
+    <style name="EditTextStyle">
+        <item name="android:background">@android:drawable/editbox_background</item>
+        <item name="android:padding">8dp</item>
+    </style>
+</resources>
