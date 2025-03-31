@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">labseven</string>
+    <string name="app_name">LabSeven</string>
+    <string name="save_button">Сохранить</string>
+    <string name="load_button">Загрузить</string>
+    <string name="write_file_button">Записать в файл</string>
+    <string name="read_file_button">Прочитать файл</string>
+    <string name="login_button">Войти</string>
+    <string name="signup_button">Зарегистрироваться</string>
+    <string name="data_saved">Данные сохранены в SharedPreferences</string>
+    <string name="data_loaded">Данные загружены из SharedPreferences</string>
+    <string name="file_written">Данные записаны в файл</string>
+    <string name="file_read">Данные загружены из файла</string>
+    <string name="file_not_found">Файл не найден</string>
+    <string name="file_read_error">Ошибка чтения файла</string>
+    <string name="file_write_error">Ошибка записи в файл</string>
 </resources>
